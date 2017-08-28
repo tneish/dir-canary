@@ -1,0 +1,7 @@
+lcd /path/to/storage/synced_from_phone1/
+cd /upload/phone1
+-get -ar .
+lcd /path/to/storage/synced_from_phone2/
+cd /upload/phone2
+get -ar .
+
